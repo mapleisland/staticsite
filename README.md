@@ -1,0 +1,2 @@
+# staticsite
+gulp generate staticsite
